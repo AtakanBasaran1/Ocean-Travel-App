@@ -17,7 +17,7 @@ const Page = () => {
         <h2 className='text-white text-[20px] flex justify-center p-5'>Hemen Rezervasyon Yap</h2>
 
         <div className="grid h-screen place-items-center mb-[-600px]">
-          <button className='bg-blue-400 mt-[-630px] hover:bg-blue-600 hover:bg-opacity-50 bg-opacity-30 w-[250px] h-[40px] text-white rounded-[30px]'>
+          <button className='bg-blue-400 mt-[-700px] hover:bg-blue-600 hover:bg-opacity-50 bg-opacity-30 w-[250px] h-[40px] text-white rounded-[30px]'>
             <p className='text-[14px] mt-3'>Rezervasyon Yap</p>
           </button>
         </div>
